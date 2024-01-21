@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhanvanth0905&show_icons=true&theme=tokyonight" />
+</a></p>
 <!--
 **Dhanvanth0905/Dhanvanth0905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
