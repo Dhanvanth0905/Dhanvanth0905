@@ -13,7 +13,7 @@
 </div>
 
 <p align="center"><a href="https://github.com/Dhanvanth0905?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhavanth0905&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhanvanth0905&show_icons=true&theme=dracula" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanvanth0905&" alt="Dhanvanth0905" />
 </a></p>
 
