@@ -4,10 +4,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhanvanth0905&show_icons=true&theme=tokyonight" />
 </a></p>
 
-<div align='center'>
-  <h1 align="center">Visitor's Count</h1>
-  <img src="https://profile-counter.glitch.me/Dhanvanth0905/count.svg" />
-</div>
 <!--
 **Dhanvanth0905/Dhanvanth0905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
